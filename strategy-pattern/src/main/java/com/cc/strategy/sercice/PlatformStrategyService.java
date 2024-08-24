@@ -1,4 +1,4 @@
-package com.cc.designPatternDemo.sercice;
+package com.cc.strategy.sercice;
 
 public interface PlatformStrategyService {
 

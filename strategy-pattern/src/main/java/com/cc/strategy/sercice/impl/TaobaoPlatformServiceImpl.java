@@ -1,6 +1,6 @@
-package com.cc.designPatternDemo.sercice.impl;
+package com.cc.strategy.sercice.impl;
 
-import com.cc.designPatternDemo.sercice.PlatformStrategyService;
+import com.cc.strategy.sercice.PlatformStrategyService;
 import org.springframework.stereotype.Service;
 
 @Service

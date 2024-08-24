@@ -1,12 +1,11 @@
-package com.cc.designPatternDemo.enums;
+package com.cc.strategy.enums;
 
-import com.cc.designPatternDemo.sercice.PlatformStrategyService;
-import com.cc.designPatternDemo.sercice.impl.DouYinPlatformServiceImpl;
-import com.cc.designPatternDemo.sercice.impl.JDPlatformServiceImpl;
-import com.cc.designPatternDemo.sercice.impl.PDDPlatformServiceImpl;
-import com.cc.designPatternDemo.sercice.impl.TaobaoPlatformServiceImpl;
+import com.cc.strategy.sercice.PlatformStrategyService;
+import com.cc.strategy.sercice.impl.DouYinPlatformServiceImpl;
+import com.cc.strategy.sercice.impl.JDPlatformServiceImpl;
+import com.cc.strategy.sercice.impl.PDDPlatformServiceImpl;
+import com.cc.strategy.sercice.impl.TaobaoPlatformServiceImpl;
 import lombok.Getter;
-import org.springframework.util.StringUtils;
 
 import java.util.ArrayList;
 import java.util.List;

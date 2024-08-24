@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: designPatternDemo
+
+
+
+--- # Actuator ????????
+management:
+  endpoints:
+    web:
+      exposure:
+        include: 'mappings'
+  endpoint:
+    health:
+      show-details: always
