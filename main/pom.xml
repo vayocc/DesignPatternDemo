@@ -46,6 +46,10 @@
             <groupId>com.cc</groupId>
             <artifactId>strategy-pattern</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.cc</groupId>
+            <artifactId>factory-pattern</artifactId>
+        </dependency>
     </dependencies>
 
 </project>

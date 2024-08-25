@@ -1,1 +1,6 @@
 [strategy-pattern](strategy-pattern) 策略模式
+
+
+[factory-pattern](factory-pattern) 工厂模式
+[SimpleFactoryClient.java](factory-pattern%2Fsrc%2Fmain%2Fjava%2Fcom%2Fcc%2Ffactory%2Fclient%2FSimpleFactoryClient.java) 简单工厂模式
+[FactoryClient.java](factory-pattern%2Fsrc%2Fmain%2Fjava%2Fcom%2Fcc%2Ffactory%2Fclient%2FFactoryClient.java) 工厂模式
