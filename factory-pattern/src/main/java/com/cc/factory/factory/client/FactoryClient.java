@@ -1,9 +1,5 @@
-package com.cc.factory.client;
+package com.cc.factory.factory.client;
 
-import com.cc.factory.Audi;
-import com.cc.factory.Benz;
-import com.cc.factory.Bmw;
-import com.cc.factory.Car;
 import com.cc.factory.factory.BenzFactory;
 import com.cc.factory.factory.BmwFactory;
 import com.cc.factory.factory.CarFactory;

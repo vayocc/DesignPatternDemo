@@ -1,4 +1,4 @@
-package com.cc.factory.client;
+package com.cc.factory.simplefactory.client;
 
 import com.cc.factory.Audi;
 import com.cc.factory.Benz;
