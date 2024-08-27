@@ -47,7 +47,8 @@
 		<module>main</module>
 		<module>strategy-pattern</module>
 		<module>factory-pattern</module>
-	</modules>
+        <module>template-method-pattern</module>
+    </modules>
 
 
 
