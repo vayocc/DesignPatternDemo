@@ -48,6 +48,7 @@
 		<module>strategy-pattern</module>
 		<module>factory-pattern</module>
         <module>template-method-pattern</module>
+        <module>demo</module>
     </modules>
 
 
@@ -67,6 +68,11 @@
 			<dependency>
 				<groupId>com.cc</groupId>
 				<artifactId>main</artifactId>
+				<version>0.0.1-SNAPSHOT</version>
+			</dependency>
+			<dependency>
+				<groupId>com.cc</groupId>
+				<artifactId>demo</artifactId>
 				<version>0.0.1-SNAPSHOT</version>
 			</dependency>
 
